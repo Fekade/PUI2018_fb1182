@@ -1,0 +1,3 @@
+Created a directory in my home directory
+Created an environmental variable PUI2018 that "stands for" /home/habtemariam/PUI208"
+Created an alias PUI2018 that takes me to /home/habtemariam/PUI208
