@@ -1,10 +1,10 @@
-Purpose of this repository is setting up my environment for future work
+The purpose of this repository was to set up my environment for future work
 
-Created a directory PUI2018 in /home/habtemariam/
+First a directory PUI2018 is created in /home/habtemariam/
 ![picture](/screenshot-01.jpg)
 
-Created an environmental variable PUI2018 that "stands for" /home/habtemariam/PUI2018" in my bash.rc   
-Also created an alias in my bash file
+An environmental variable PUI2018 that "stands for" /home/habtemariam/PUI2018" is then created in my bash.rc   
+Finally an alias is created in my bash file
 ![picture](/screenshot-02.jpg)
 
 
