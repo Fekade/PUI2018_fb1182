@@ -1,4 +1,4 @@
-PUI 2018 Repository\n
-Principle of Urban Informatics\n
-Fekade Brook //Evening Session\n
+PUI 2018 Repository<br/>
+Principle of Urban Informatics<br/>
+Fekade Brook //Evening Session<br/>
 NYU CUSP 2018
