@@ -21,9 +21,9 @@ data = json.loads(data)
 
 
 detail = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery']
-fout = open(sys.argv[4], "w")
+fout = open(sys.argv[3], "w")
 fout.write("\n")
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 	
-	for i in range(len(detail[0]['VehicleActivity']))::
-       fout.write("detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['StopPointName'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']\n")
+	for i in range(len(detail[0]['VehicleActivity'])):
+        fout.write("detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['StopPointName'], detail[0]['VehicleActivity'][i]['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']\n")
