@@ -21,8 +21,8 @@ data = json.loads(data)
 
 
 detail = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery']
-fout = open(sys.argv[4], "w"
-fout.write("\n)
+fout = open(sys.argv[4], "w")
+fout.write("\n")
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 	
 	for i in range(len(detail[0]['VehicleActivity']))::
