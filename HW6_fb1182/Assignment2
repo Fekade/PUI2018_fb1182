@@ -1,3 +1,11 @@
 
-
+| Statistical Analyses  | IV(s)|IV type(s)  | DV(s) |DV type(s) | Control Var  | Control Var type | Question to be answered | H0 | Link to paper|
+| ------------- | -------------     | ------------- | ------------------    | ------------- | --------------------- | ------------- | ------------- | ------------- | 
+| Correlation   | 1, Phobic Anxiety | Categorical   | "1, Telomere length"  |Continuous     |4, Age                 |Continuous     |Is Higher
+                                                                                            |Paternal-age-at-birth  |Interval       |Phobic Anxiety
+                                                                                            |Body Mass Index,       |Interval       |generally
+                                                                                            |Pack-years-of- smoking |Interval       |associated
+                                                                                            |Activity               |Continuous     |with lower     
+                                                                                                                                    |Telomere
+                                                                                                                                    |length ?
 
