@@ -4,3 +4,4 @@ the plot could be served right, if more “robust” colors were used. And for t
 for example we could bundle the twelve providers into two groupings. May be use a dictionary for a key value combination ?
 And the number of WIFI hot spots would make one curious as to how these hots spots are being shared among the eight or so providers 
 in each grouping. 
+![alt text](https://github.com/jianweili0/PUI2018_jl9200/blob/master/PUI2018_jl9200/HW8_jl9200/WifiSpotsNYC.png)
