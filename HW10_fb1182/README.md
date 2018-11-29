@@ -1,2 +1,2 @@
 
-For this homework I worked communicated my issues to a group of my classmates. Andrea, Jerome and Tiffany.
+For this homework I communicated my issues to a group of classmates, Andrea, Jerome and Tiffany.
